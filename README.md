@@ -1,0 +1,2 @@
+# datamininig
+data minning class
